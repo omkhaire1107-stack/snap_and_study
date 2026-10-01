@@ -43,7 +43,7 @@ The actual .streamlit/secrets.toml file is kept locally and is not committed to 
 
 ⚙️ Local Setup
 1. Clone the repository
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/omkhaire1107-stack/snap_and_study
 cd snap-and-study
 2. Create a virtual environment
 python -m venv venv
